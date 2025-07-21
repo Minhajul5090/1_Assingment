@@ -3,7 +3,7 @@
   padding: 20px 0px;
 }
 header {
-  background-image: url("/assets/Hero-bg.png");
+  background-image: url("../assets/Hero-bg.png");
 }
 .a {
   font-size: 20px;
